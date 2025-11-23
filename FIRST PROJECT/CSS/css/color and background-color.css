@@ -1,0 +1,5 @@
+#color1{color: white;background-color: yellow;}/*DEFAULT*/
+#color2{color:rgb(105, 245, 66);background-color:rgb(75, 66, 245);}/*RGB*/
+#color3{color:#4b42f5;background-color: #f542e9;}/*HEX*/
+#color4{color:rgb(245, 66, 233,0.85);background-color: rgb(75, 66, 245,0.25);}/*RGBA*/
+

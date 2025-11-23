@@ -1,0 +1,3 @@
+#visibility_hidden{background-color: blue;visibility: hidden;}
+#visibility_visible{background-color: brown;visibility: visible;}
+/*If one of the three boxes is set to visibility: hidden, the remaining two boxes do not shift to fill the space.*/
